@@ -1,0 +1,3 @@
+[submodule "GuessTheNumber-HolyC"]
+	path = GuessTheNumber-HolyC
+	url = https://github.com/silverhadch/GuessTheNumber-HolyC
